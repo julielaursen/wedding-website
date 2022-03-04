@@ -1,4 +1,7 @@
 # Wedding Website
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/bf0fc5693a6746b1b7f030b9b65cd09b)](https://app.codacy.com/gh/julielaursen/wedding-website?utm_source=github.com&utm_medium=referral&utm_content=julielaursen/wedding-website&utm_campaign=Badge_Grade_Settings)
+
 A beautiful, feature rich, device friendly wedding website.  
 _See [wedding.rampatra.com](http://wedding.rampatra.com/) for a demo. Use invite code `271117` to RSVP._
 
